@@ -1,0 +1,77 @@
+﻿body {
+    background-color: lightgray;
+}
+.ddd {
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: auto;
+    min-height: 600px;
+    background-color: white;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
+}
+.password,.email,.Login,.lgn,.p1,.a1{
+    display: block;
+   
+}
+.elements
+{
+    
+    
+   
+   
+    vertical-align:central;
+    
+  
+}
+.lgn{display:inline-block ;
+    margin:5px;   
+
+}
+.lgn2 {
+    display: inline-block;
+    margin: 5px;
+}
+.lgn2:hover,.lgn2:focus{background-color:indianred;}
+.c1{
+    height:120px;
+}
+.email {
+    border-radius: 6px;
+    width: 200px;
+    height: 26px;
+    
+}
+.password {
+    border-radius: 6px;
+    
+    width: 200px;
+    height: 26px;
+}
+
+  .Login
+    {
+        width:200px;
+        height:30px;
+       background-color:lightpink;
+       
+        font-family:Arial;
+        font-size:16px;
+        border:none;
+        border-radius:8px;
+        color:black;
+        cursor:pointer;
+
+    }
+.username {
+    border-radius: 6px;
+    width: 200px;
+    height: 26px;
+}
+  .Login:focus, .Login:hover
+  {
+      background-color:pink;
+
+  }

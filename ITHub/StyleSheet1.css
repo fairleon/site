@@ -1,0 +1,284 @@
+﻿body
+{
+  background-color:lightgray;
+}
+.b
+{
+    width: auto;
+    height: 10px;
+}
+.c3{}
+.r1{height:10px}
+main{background-color:lightgray;}
+.menu {
+    
+    height:30px;
+    width:30px;
+    color: blue;
+    font-size: 15px;
+    
+    box-shadow: none;
+    
+   
+    
+
+
+}
+.login
+{
+
+   width:60px;
+   height:30px;
+    border:2px solid blue;
+   
+    text-align:center;
+    border-radius:10px;
+    font-family:Arial;
+    color:blue;
+    font-size:26px;
+    cursor: pointer;
+
+}
+.buttonread {
+
+}
+
+.menu2
+{
+    height:50px;
+    margin-top:10px;
+
+}
+.login:focus,.login:hover
+{
+    background-color:aqua;
+
+}
+.search {
+    border-radius: 8px;
+    background-color: white;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+.search:focus, .search:hover{
+    background-color:lightgray;
+}
+
+ .kn a:hover, .kn a:focus{background-color:lightgray;}
+.header {
+    background-color:white;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
+    width:100%;
+    position:fixed;
+    height:80px;
+    top:0px;
+    left:0px;
+    margin:0 auto;
+    padding:0;
+   
+
+         }
+.qsn:focus, .qsn:hover{background-color:lightgray;}
+.menu1,.menu2, .c1, .c3, .txt, .sdd, .login{display:inline-block; text-align:center; vertical-align:central;}
+.menu1 {text-align:left; float:left;border-radius:15px;}
+.sx {
+    border-radius: 8px;
+    box-shadow: none;
+    width:240px;
+    height:36px;
+    
+}
+.sx, .search{vertical-align:bottom;}
+.menu2{
+    
+  
+    text-align:right;
+    float:right; 
+   
+           
+}
+.dcb:hover, .dcb:focus
+{
+
+    background-color:lightblue;
+
+}
+.dalee:focus, .dalee:hover{background-color:lightblue;}
+.vivo, .n
+{
+  display:inline;
+  
+
+}
+.li{
+  cursor:pointer;
+    display:inline;
+    margin-right:5px;
+    background-color:whitesmoke;
+
+}
+.li:focus, .li:active{background-color:lightgray;}
+
+.nn, .ddd{display:inline-block;}
+.jj a:hover, .jj a:focus{background-color:lightgray;}
+
+
+
+.a{width:auto;height:40px;}
+.Container {
+    background-color: white;
+    width: auto;
+    height: 550px;
+    top:10px;
+    margin-right: auto;
+    margin-left: 180px;
+    border-radius: 15px;
+    box-shadow: 0px 1.5px 1.5px 0px rgba(0, 0, 0, 0.5);
+    text-align:center;
+    font-family:Arial;
+    font-size:large;
+}
+.r {
+    height: 10px;
+}
+.e{height:8px;}
+.c2 {
+    height: 45px;
+    text-align:left;
+    
+  
+
+}
+.c6 {
+  
+}
+.a1{height:70px;}
+.cc {
+    
+    height: 40px;
+
+    
+
+}
+.publ:hover, .publ:focus{background-color:lightblue;}
+.bt a:hover, .bt a:focus{
+    background-color: lightblue;
+}
+.tagd {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.tagd a{
+   
+}
+.df
+{
+    font-size:15px;
+    border-top:1px gray solid;
+    padding:4px;
+
+}
+.dada a {
+    
+    font-size: 15px;
+}
+.dada {
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2);
+    border: 2px gray solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+a.blockd{
+    color:black;
+   
+    
+
+}
+.c2 a{
+     
+    margin-right: 60px;
+    border-radius: 12px;
+    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.5);
+}
+.c2 {
+    padding-left:7%;
+    padding-right:7%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 200px);
+    grid-gap: 1em 20px;
+   
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.d5{height:1px;}
+.sort
+{
+
+
+
+}
+
+
+footer {
+
+    height: 100px;
+    width: 100%;
+   
+    left:0px;
+   
+  
+    background-color: gray;
+    text-align: center;
+    font-family: Arial;
+    position:absolute;
+   
+    box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.5);
+}
+
+
+
+  
+
+
+
+.showc {
+    display: block;
+    
+}
+
+.block-menu {
+    
+    left:0;
+    width: 180px;
+    height: 220px;
+    background-color: white;
+    box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.5);
+    position:fixed;
+    vertical-align:middle;
+}
+.block-menu a{
+   
+    margin-left:7px;
+    margin-right:7px;
+    border-radius:10px;
+    display:block;
+    text-align:left;
+    font-family:Arial;
+    line-height:40px;
+    color:black;
+}
+    .block-menu a:hover, .block-menu a:focus
+    {
+
+        background-color:lightgray;
+
+    }
+   .izm a:hover, .izm a:focus{background-color:gray;}
+  
+   
